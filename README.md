@@ -7,7 +7,7 @@
 <br>
 <br>
 <img src="https://github.com/rafaelepsouza/easy-shopping/blob/master/asset/Cellphone.png?raw=true" alt="cellphone-logo">
-<h2>Criado com base nas aulas iniciais de HTML e CSS do <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h2>
+<h2>Criado com base nas aulas iniciais de HTML e CSS do <a href="https://rodolfomori.com.br/devclub">DevClub.</a> </h2>
 
 <br>
 <br>
@@ -28,14 +28,16 @@
   - lorem, simulando uma breve descrição sobre o que é o site e o que ele oferece aos seus Clientes;
   <br>
   <br>
-  - button, simulando um botão inicial e também interativo;
+  - img. Uma imagem descrevendo bem o título do site.
   <br>
   <br>
-  ***********CAMPO PARA INCLUSÃO DO BUTTON INTERATIVO
+  - E por fim um button, simulando um botão inicial. Também interativo;
   <br>
   <br>
-  - img. E por fim uma imagem descrevendo bem o título do site.
- <br>
+  <img src="https://github.com/rafaelepsouza/easy-shopping/blob/master/asset/Desktop-3.png?raw=true" alt="imagem-interativa-2">
+  <br>
+  <br>
+
  <br>
  <br>
   
